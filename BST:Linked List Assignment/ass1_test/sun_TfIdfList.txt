@@ -1,0 +1,4 @@
+0.034720  info31.txt
+0.027004  planets.txt
+0.017360  news1.txt
+0.013502  mixed.txt
